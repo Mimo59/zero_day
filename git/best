@@ -1,1 +1,2 @@
-"best school"
+#!/bin/bash
+echo "best school"
